@@ -1,0 +1,91 @@
+6
+JOUEUR
+1 13 Roger_Federer
+2 12 Rafael_Nadal
+3 14 Novak_Djokovic
+4 18 Stanislas_Wawrinka
+5 11 Andy_Murray
+6 20 Juan-Martin_DelPotro
+PERIODE_FORTE
+16 12 16 20 2 > 2004 - 2009 + 2016 - 2018 /
+12 10 16 9 2 > 2008 - 2013 + 2016 - 2018 /
+15 15 10 15 1 > 2009 - 2015 /
+12 10 17 17 1 > 2012 - 2015 /
+19 10 15 10 1 > 2010 - 2014 /
+7 13 11 20 1 > 2009 - 2012 /
+PERIODE_FAIBLE
+12 11 12 13 2 > 2001 - 2002 + 2010 - 2013 /
+15 10 18 10 3 > 2001 - 2003 + 2014 - 2015 + 2019 - 2019 /
+15 10 15 14 2 > 2001 - 2003 + 2016 - 2019 /
+26 24 23 23 1 > 2001 - 2004 /
+20 19 19 18 2 > 2001 - 2003 + 2015 - 2017 /
+20 20 17 17 2 > 2001 - 2003 + 2013 - 2015 /
+PROBA 15
+1 2 40
+1 3 50
+1 4 60
+1 5 72
+1 6 82
+2 3 50
+2 4 55
+2 5 80
+2 6 71
+3 4 55
+3 5 73
+3 6 80
+4 5 75
+4 6 85
+5 6 50
+TERRAIN_FAVORI
+20 -8 14 14
+-7 20 0 14
+10 -3 13 12
+7 12 0 8
+7 -5 13 7
+15 0 10 3
+TOURNOIS_FAVORI
+5 -10 10 8
+3 15 -5 6
+9 -5 6 5
+5 5 0 5
+0 -3 5 5
+4 5 2 -15
+END
+
+Nombre_de_joueur
+
+
+JOUEUR
+id_joueur nombre_lettre_joueur prenom_nom
+...
+
+
+PERIODE_FORTE
+proba nb_periode annee_deb_1 duree_1 ... annee_deb_N duree_N
+...
+
+
+PERIODE_FAIBLE
+proba nb_periode annee_deb_1 duree_1 ... annee_deb_N duree_N
+...
+
+
+PROBA
+id_joueur1 id_joueur2 probabilite
+...
+
+
+TERRAIN_FAVORI
+terrain1 terrain2 terrain3 terrain4
+
+TOURNOIS_FAVORI
+id_joueur OPEN_AUSTRALIE ROLLAND_GARROS WIMBLEDON US_OPEN
+END
+
+
+
+Type_terrain = 
+1 => Herbe
+2 => Terre battue
+3 => Dur
+4 => Moquette

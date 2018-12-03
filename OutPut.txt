@@ -1,0 +1,808 @@
+--------------------
+Tournois
+Open D'Australie  2000
+Vainqueur 3 Finaliste 4
+Match_Important
+gagnant 107 perdant 2 tour 1
+gagnant 43 perdant 5 tour 2
+gagnant 3 perdant 1 tour 4
+gagnant 4 perdant 6 tour 5
+gagnant 3 perdant 4 tour 6
+--------------------
+Tournois
+Roland Garros  2000
+Vainqueur 2 Finaliste 5
+Match_Important
+gagnant 61 perdant 3 tour 0
+gagnant 47 perdant 4 tour 0
+gagnant 2 perdant 1 tour 4
+gagnant 5 perdant 6 tour 4
+gagnant 2 perdant 5 tour 6
+--------------------
+Tournois
+Wimbledon  2000
+Vainqueur 2 Finaliste 5
+Match_Important
+gagnant 105 perdant 4 tour 1
+gagnant 20 perdant 3 tour 2
+gagnant 2 perdant 1 tour 4
+gagnant 2 perdant 6 tour 5
+gagnant 2 perdant 5 tour 6
+--------------------
+Tournois
+US OPEN  2000
+Vainqueur 1 Finaliste 5
+Match_Important
+gagnant 1 perdant 2 tour 4
+gagnant 5 perdant 4 tour 4
+gagnant 1 perdant 3 tour 5
+gagnant 5 perdant 6 tour 5
+gagnant 1 perdant 5 tour 6
+--------------------
+Tournois
+Open D'Australie  2001
+Vainqueur 2 Finaliste 1
+Match_Important
+gagnant 2 perdant 6 tour 4
+gagnant 4 perdant 3 tour 4
+gagnant 2 perdant 5 tour 5
+gagnant 1 perdant 4 tour 5
+gagnant 2 perdant 1 tour 6
+--------------------
+Tournois
+Roland Garros  2001
+Vainqueur 2 Finaliste 1
+Match_Important
+gagnant 115 perdant 5 tour 3
+gagnant 107 perdant 4 tour 3
+gagnant 2 perdant 6 tour 4
+gagnant 74 perdant 3 tour 4
+gagnant 2 perdant 1 tour 6
+--------------------
+Tournois
+Wimbledon  2001
+Vainqueur 3 Finaliste 2
+Match_Important
+gagnant 2 perdant 6 tour 4
+gagnant 1 perdant 4 tour 4
+gagnant 2 perdant 5 tour 5
+gagnant 3 perdant 1 tour 5
+gagnant 3 perdant 2 tour 6
+--------------------
+Tournois
+US OPEN  2001
+Vainqueur 1 Finaliste 6
+Match_Important
+gagnant 1 perdant 4 tour 4
+gagnant 6 perdant 2 tour 4
+gagnant 1 perdant 3 tour 5
+gagnant 6 perdant 5 tour 5
+gagnant 1 perdant 6 tour 6
+--------------------
+Tournois
+Open D'Australie  2002
+Vainqueur 6 Finaliste 5
+Match_Important
+gagnant 12 perdant 4 tour 2
+gagnant 81 perdant 3 tour 3
+gagnant 107 perdant 2 tour 3
+gagnant 6 perdant 1 tour 4
+gagnant 6 perdant 5 tour 6
+--------------------
+Tournois
+Roland Garros  2002
+Vainqueur 2 Finaliste 1
+Match_Important
+gagnant 104 perdant 3 tour 3
+gagnant 1 perdant 6 tour 4
+gagnant 2 perdant 4 tour 4
+gagnant 1 perdant 5 tour 5
+gagnant 2 perdant 1 tour 6
+--------------------
+Tournois
+Wimbledon  2002
+Vainqueur 1 Finaliste 4
+Match_Important
+gagnant 1 perdant 6 tour 4
+gagnant 4 perdant 5 tour 4
+gagnant 1 perdant 2 tour 5
+gagnant 4 perdant 3 tour 5
+gagnant 1 perdant 4 tour 6
+--------------------
+Tournois
+US OPEN  2002
+Vainqueur 4 Finaliste 2
+Match_Important
+gagnant 126 perdant 3 tour 3
+gagnant 4 perdant 5 tour 4
+gagnant 2 perdant 1 tour 5
+gagnant 4 perdant 6 tour 5
+gagnant 4 perdant 2 tour 6
+--------------------
+Tournois
+Open D'Australie  2003
+Vainqueur 1 Finaliste 6
+Match_Important
+gagnant 6 perdant 2 tour 4
+gagnant 76 perdant 4 tour 4
+gagnant 1 perdant 3 tour 4
+gagnant 1 perdant 5 tour 5
+gagnant 1 perdant 6 tour 6
+--------------------
+Tournois
+Roland Garros  2003
+Vainqueur 3 Finaliste 82
+Match_Important
+gagnant 3 perdant 1 tour 4
+gagnant 6 perdant 4 tour 4
+gagnant 82 perdant 5 tour 4
+gagnant 3 perdant 2 tour 5
+gagnant 82 perdant 6 tour 5
+gagnant 3 perdant 82 tour 6
+--------------------
+Tournois
+Wimbledon  2003
+Vainqueur 1 Finaliste 4
+Match_Important
+gagnant 8 perdant 3 tour 2
+gagnant 4 perdant 5 tour 4
+gagnant 1 perdant 6 tour 4
+gagnant 1 perdant 2 tour 5
+gagnant 1 perdant 4 tour 6
+--------------------
+Tournois
+US OPEN  2003
+Vainqueur 1 Finaliste 2
+Match_Important
+gagnant 73 perdant 5 tour 0
+gagnant 117 perdant 3 tour 0
+gagnant 46 perdant 6 tour 3
+gagnant 2 perdant 4 tour 5
+gagnant 1 perdant 2 tour 6
+--------------------
+Tournois
+Open D'Australie  2004
+Vainqueur 5 Finaliste 6
+Match_Important
+gagnant 101 perdant 3 tour 0
+gagnant 28 perdant 2 tour 1
+gagnant 5 perdant 1 tour 4
+gagnant 6 perdant 4 tour 4
+gagnant 5 perdant 6 tour 6
+--------------------
+Tournois
+Roland Garros  2004
+Vainqueur 2 Finaliste 4
+Match_Important
+gagnant 79 perdant 5 tour 2
+gagnant 2 perdant 6 tour 4
+gagnant 94 perdant 3 tour 4
+gagnant 4 perdant 1 tour 5
+gagnant 2 perdant 4 tour 6
+--------------------
+Tournois
+Wimbledon  2004
+Vainqueur 3 Finaliste 1
+Match_Important
+gagnant 3 perdant 2 tour 4
+gagnant 1 perdant 6 tour 4
+gagnant 3 perdant 4 tour 5
+gagnant 1 perdant 5 tour 5
+gagnant 3 perdant 1 tour 6
+--------------------
+Tournois
+US OPEN  2004
+Vainqueur 2 Finaliste 1
+Match_Important
+gagnant 2 perdant 3 tour 4
+gagnant 1 perdant 6 tour 4
+gagnant 2 perdant 4 tour 5
+gagnant 1 perdant 5 tour 5
+gagnant 2 perdant 1 tour 6
+--------------------
+Tournois
+Open D'Australie  2005
+Vainqueur 3 Finaliste 1
+Match_Important
+gagnant 5 perdant 2 tour 4
+gagnant 4 perdant 6 tour 4
+gagnant 1 perdant 5 tour 5
+gagnant 3 perdant 4 tour 5
+gagnant 3 perdant 1 tour 6
+--------------------
+Tournois
+Roland Garros  2005
+Vainqueur 2 Finaliste 1
+Match_Important
+gagnant 88 perdant 4 tour 3
+gagnant 3 perdant 6 tour 4
+gagnant 1 perdant 5 tour 5
+gagnant 2 perdant 3 tour 5
+gagnant 2 perdant 1 tour 6
+--------------------
+Tournois
+Wimbledon  2005
+Vainqueur 1 Finaliste 3
+Match_Important
+gagnant 4 perdant 5 tour 4
+gagnant 3 perdant 6 tour 4
+gagnant 1 perdant 4 tour 5
+gagnant 3 perdant 2 tour 5
+gagnant 1 perdant 3 tour 6
+--------------------
+Tournois
+US OPEN  2005
+Vainqueur 3 Finaliste 2
+Match_Important
+gagnant 5 perdant 1 tour 4
+gagnant 4 perdant 6 tour 4
+gagnant 2 perdant 5 tour 5
+gagnant 3 perdant 4 tour 5
+gagnant 3 perdant 2 tour 6
+--------------------
+Tournois
+Open D'Australie  2006
+Vainqueur 3 Finaliste 6
+Match_Important
+gagnant 113 perdant 2 tour 0
+gagnant 125 perdant 4 tour 3
+gagnant 3 perdant 5 tour 4
+gagnant 6 perdant 1 tour 4
+gagnant 3 perdant 6 tour 6
+--------------------
+Tournois
+Roland Garros  2006
+Vainqueur 2 Finaliste 1
+Match_Important
+gagnant 123 perdant 3 tour 1
+gagnant 1 perdant 5 tour 4
+gagnant 2 perdant 6 tour 5
+gagnant 1 perdant 4 tour 5
+gagnant 2 perdant 1 tour 6
+--------------------
+Tournois
+Wimbledon  2006
+Vainqueur 1 Finaliste 3
+Match_Important
+gagnant 1 perdant 6 tour 4
+gagnant 3 perdant 5 tour 4
+gagnant 1 perdant 2 tour 5
+gagnant 3 perdant 4 tour 5
+gagnant 1 perdant 3 tour 6
+--------------------
+Tournois
+US OPEN  2006
+Vainqueur 2 Finaliste 84
+Match_Important
+gagnant 53 perdant 4 tour 1
+gagnant 95 perdant 6 tour 1
+gagnant 74 perdant 5 tour 2
+gagnant 29 perdant 3 tour 4
+gagnant 2 perdant 1 tour 5
+gagnant 2 perdant 84 tour 6
+--------------------
+Tournois
+Open D'Australie  2007
+Vainqueur 1 Finaliste 3
+Match_Important
+gagnant 67 perdant 4 tour 1
+gagnant 121 perdant 2 tour 3
+gagnant 3 perdant 6 tour 5
+gagnant 1 perdant 5 tour 5
+gagnant 1 perdant 3 tour 6
+--------------------
+Tournois
+Roland Garros  2007
+Vainqueur 2 Finaliste 1
+Match_Important
+gagnant 97 perdant 3 tour 0
+gagnant 48 perdant 5 tour 3
+gagnant 1 perdant 6 tour 4
+gagnant 2 perdant 4 tour 5
+gagnant 2 perdant 1 tour 6
+--------------------
+Tournois
+Wimbledon  2007
+Vainqueur 1 Finaliste 2
+Match_Important
+gagnant 2 perdant 5 tour 4
+gagnant 1 perdant 6 tour 4
+gagnant 88 perdant 3 tour 4
+gagnant 2 perdant 4 tour 5
+gagnant 1 perdant 2 tour 6
+--------------------
+Tournois
+US OPEN  2007
+Vainqueur 5 Finaliste 1
+Match_Important
+gagnant 122 perdant 6 tour 0
+gagnant 45 perdant 4 tour 0
+gagnant 5 perdant 2 tour 4
+gagnant 5 perdant 3 tour 5
+gagnant 5 perdant 1 tour 6
+--------------------
+Tournois
+Open D'Australie  2008
+Vainqueur 3 Finaliste 6
+Match_Important
+gagnant 31 perdant 4 tour 0
+gagnant 91 perdant 5 tour 3
+gagnant 6 perdant 2 tour 4
+gagnant 3 perdant 1 tour 5
+gagnant 3 perdant 6 tour 6
+--------------------
+Tournois
+Roland Garros  2008
+Vainqueur 2 Finaliste 121
+Match_Important
+gagnant 1 perdant 4 tour 4
+gagnant 3 perdant 6 tour 4
+gagnant 121 perdant 5 tour 4
+gagnant 2 perdant 1 tour 5
+gagnant 121 perdant 3 tour 5
+gagnant 2 perdant 121 tour 6
+--------------------
+Tournois
+Wimbledon  2008
+Vainqueur 3 Finaliste 1
+Match_Important
+gagnant 3 perdant 4 tour 4
+gagnant 1 perdant 6 tour 4
+gagnant 3 perdant 2 tour 5
+gagnant 1 perdant 5 tour 5
+gagnant 3 perdant 1 tour 6
+--------------------
+Tournois
+US OPEN  2008
+Vainqueur 2 Finaliste 5
+Match_Important
+gagnant 4 perdant 3 tour 4
+gagnant 1 perdant 6 tour 4
+gagnant 2 perdant 4 tour 5
+gagnant 5 perdant 1 tour 5
+gagnant 2 perdant 5 tour 6
+--------------------
+Tournois
+Open D'Australie  2009
+Vainqueur 17 Finaliste 1
+Match_Important
+gagnant 87 perdant 2 tour 1
+gagnant 5 perdant 3 tour 4
+gagnant 1 perdant 6 tour 4
+gagnant 17 perdant 5 tour 5
+gagnant 1 perdant 4 tour 5
+gagnant 17 perdant 1 tour 6
+--------------------
+Tournois
+Roland Garros  2009
+Vainqueur 1 Finaliste 6
+Match_Important
+gagnant 1 perdant 5 tour 4
+gagnant 6 perdant 2 tour 4
+gagnant 77 perdant 4 tour 4
+gagnant 1 perdant 3 tour 5
+gagnant 1 perdant 6 tour 6
+--------------------
+Tournois
+Wimbledon  2009
+Vainqueur 1 Finaliste 3
+Match_Important
+gagnant 85 perdant 4 tour 0
+gagnant 1 perdant 5 tour 4
+gagnant 3 perdant 6 tour 4
+gagnant 1 perdant 2 tour 5
+gagnant 1 perdant 3 tour 6
+--------------------
+Tournois
+US OPEN  2009
+Vainqueur 1 Finaliste 3
+Match_Important
+gagnant 84 perdant 5 tour 2
+gagnant 15 perdant 6 tour 2
+gagnant 1 perdant 4 tour 5
+gagnant 3 perdant 2 tour 5
+gagnant 1 perdant 3 tour 6
+--------------------
+Tournois
+Open D'Australie  2010
+Vainqueur 3 Finaliste 1
+Match_Important
+gagnant 96 perdant 5 tour 3
+gagnant 105 perdant 2 tour 3
+gagnant 3 perdant 6 tour 4
+gagnant 3 perdant 4 tour 5
+gagnant 3 perdant 1 tour 6
+--------------------
+Tournois
+Roland Garros  2010
+Vainqueur 3 Finaliste 4
+Match_Important
+gagnant 5 perdant 1 tour 4
+gagnant 3 perdant 6 tour 4
+gagnant 101 perdant 2 tour 4
+gagnant 4 perdant 5 tour 5
+gagnant 3 perdant 4 tour 6
+--------------------
+Tournois
+Wimbledon  2010
+Vainqueur 1 Finaliste 3
+Match_Important
+gagnant 1 perdant 5 tour 4
+gagnant 35 perdant 4 tour 4
+gagnant 3 perdant 6 tour 4
+gagnant 3 perdant 2 tour 5
+gagnant 1 perdant 3 tour 6
+--------------------
+Tournois
+US OPEN  2010
+Vainqueur 3 Finaliste 4
+Match_Important
+gagnant 1 perdant 5 tour 4
+gagnant 3 perdant 6 tour 4
+gagnant 4 perdant 1 tour 5
+gagnant 3 perdant 2 tour 5
+gagnant 3 perdant 4 tour 6
+--------------------
+Tournois
+Open D'Australie  2011
+Vainqueur 3 Finaliste 1
+Match_Important
+gagnant 17 perdant 4 tour 1
+gagnant 20 perdant 6 tour 2
+gagnant 3 perdant 5 tour 4
+gagnant 1 perdant 2 tour 5
+gagnant 3 perdant 1 tour 6
+--------------------
+Tournois
+Roland Garros  2011
+Vainqueur 4 Finaliste 2
+Match_Important
+gagnant 3 perdant 5 tour 4
+gagnant 1 perdant 6 tour 4
+gagnant 2 perdant 3 tour 5
+gagnant 4 perdant 1 tour 5
+gagnant 4 perdant 2 tour 6
+--------------------
+Tournois
+Wimbledon  2011
+Vainqueur 1 Finaliste 3
+Match_Important
+gagnant 58 perdant 4 tour 3
+gagnant 3 perdant 5 tour 4
+gagnant 1 perdant 6 tour 4
+gagnant 1 perdant 2 tour 5
+gagnant 1 perdant 3 tour 6
+--------------------
+Tournois
+US OPEN  2011
+Vainqueur 2 Finaliste 1
+Match_Important
+gagnant 127 perdant 3 tour 3
+gagnant 1 perdant 5 tour 4
+gagnant 2 perdant 6 tour 5
+gagnant 1 perdant 4 tour 5
+gagnant 2 perdant 1 tour 6
+--------------------
+Tournois
+Open D'Australie  2012
+Vainqueur 3 Finaliste 13
+Match_Important
+gagnant 31 perdant 2 tour 1
+gagnant 21 perdant 4 tour 1
+gagnant 5 perdant 1 tour 4
+gagnant 13 perdant 6 tour 4
+gagnant 3 perdant 5 tour 5
+gagnant 3 perdant 13 tour 6
+--------------------
+Tournois
+Roland Garros  2012
+Vainqueur 1 Finaliste 5
+Match_Important
+gagnant 27 perdant 4 tour 0
+gagnant 94 perdant 6 tour 1
+gagnant 40 perdant 2 tour 1
+gagnant 1 perdant 3 tour 5
+gagnant 1 perdant 5 tour 6
+--------------------
+Tournois
+Wimbledon  2012
+Vainqueur 1 Finaliste 4
+Match_Important
+gagnant 12 perdant 3 tour 2
+gagnant 1 perdant 5 tour 4
+gagnant 2 perdant 6 tour 4
+gagnant 4 perdant 2 tour 5
+gagnant 1 perdant 4 tour 6
+--------------------
+Tournois
+US OPEN  2012
+Vainqueur 2 Finaliste 1
+Match_Important
+gagnant 1 perdant 5 tour 4
+gagnant 59 perdant 3 tour 4
+gagnant 2 perdant 6 tour 4
+gagnant 2 perdant 4 tour 5
+gagnant 2 perdant 1 tour 6
+--------------------
+Tournois
+Open D'Australie  2013
+Vainqueur 3 Finaliste 6
+Match_Important
+gagnant 46 perdant 2 tour 0
+gagnant 1 perdant 5 tour 4
+gagnant 23 perdant 4 tour 4
+gagnant 3 perdant 1 tour 5
+gagnant 3 perdant 6 tour 6
+--------------------
+Tournois
+Roland Garros  2013
+Vainqueur 2 Finaliste 1
+Match_Important
+gagnant 8 perdant 4 tour 2
+gagnant 34 perdant 3 tour 2
+gagnant 70 perdant 6 tour 3
+gagnant 2 perdant 5 tour 5
+gagnant 2 perdant 1 tour 6
+--------------------
+Tournois
+Wimbledon  2013
+Vainqueur 1 Finaliste 2
+Match_Important
+gagnant 1 perdant 6 tour 4
+gagnant 2 perdant 5 tour 4
+gagnant 1 perdant 3 tour 5
+gagnant 2 perdant 4 tour 5
+gagnant 1 perdant 2 tour 6
+--------------------
+Tournois
+US OPEN  2013
+Vainqueur 1 Finaliste 5
+Match_Important
+gagnant 69 perdant 3 tour 3
+gagnant 1 perdant 6 tour 4
+gagnant 23 perdant 4 tour 4
+gagnant 5 perdant 2 tour 4
+gagnant 1 perdant 5 tour 6
+--------------------
+Tournois
+Open D'Australie  2014
+Vainqueur 3 Finaliste 6
+Match_Important
+gagnant 11 perdant 4 tour 3
+gagnant 6 perdant 1 tour 4
+gagnant 6 perdant 2 tour 5
+gagnant 3 perdant 5 tour 5
+gagnant 3 perdant 6 tour 6
+--------------------
+Tournois
+Roland Garros  2014
+Vainqueur 2 Finaliste 6
+Match_Important
+gagnant 36 perdant 4 tour 0
+gagnant 49 perdant 5 tour 3
+gagnant 2 perdant 1 tour 5
+gagnant 6 perdant 3 tour 5
+gagnant 2 perdant 6 tour 6
+--------------------
+Tournois
+Wimbledon  2014
+Vainqueur 1 Finaliste 2
+Match_Important
+gagnant 113 perdant 4 tour 0
+gagnant 1 perdant 6 tour 4
+gagnant 2 perdant 5 tour 5
+gagnant 1 perdant 3 tour 5
+gagnant 1 perdant 2 tour 6
+--------------------
+Tournois
+US OPEN  2014
+Vainqueur 2 Finaliste 4
+Match_Important
+gagnant 74 perdant 1 tour 2
+gagnant 37 perdant 3 tour 2
+gagnant 86 perdant 6 tour 4
+gagnant 2 perdant 5 tour 5
+gagnant 2 perdant 4 tour 6
+--------------------
+Tournois
+Open D'Australie  2015
+Vainqueur 5 Finaliste 3
+Match_Important
+gagnant 122 perdant 4 tour 0
+gagnant 34 perdant 2 tour 1
+gagnant 1 perdant 6 tour 4
+gagnant 3 perdant 1 tour 5
+gagnant 5 perdant 3 tour 6
+--------------------
+Tournois
+Roland Garros  2015
+Vainqueur 2 Finaliste 1
+Match_Important
+gagnant 83 perdant 4 tour 1
+gagnant 65 perdant 5 tour 2
+gagnant 64 perdant 3 tour 2
+gagnant 14 perdant 6 tour 3
+gagnant 2 perdant 1 tour 6
+--------------------
+Tournois
+Wimbledon  2015
+Vainqueur 1 Finaliste 2
+Match_Important
+gagnant 81 perdant 3 tour 0
+gagnant 1 perdant 4 tour 4
+gagnant 2 perdant 6 tour 4
+gagnant 2 perdant 5 tour 5
+gagnant 1 perdant 2 tour 6
+--------------------
+Tournois
+US OPEN  2015
+Vainqueur 4 Finaliste 2
+Match_Important
+gagnant 33 perdant 6 tour 1
+gagnant 26 perdant 3 tour 3
+gagnant 4 perdant 1 tour 4
+gagnant 2 perdant 5 tour 5
+gagnant 4 perdant 2 tour 6
+--------------------
+Tournois
+Open D'Australie  2016
+Vainqueur 3 Finaliste 4
+Match_Important
+gagnant 73 perdant 5 tour 2
+gagnant 2 perdant 6 tour 4
+gagnant 4 perdant 1 tour 5
+gagnant 3 perdant 2 tour 5
+gagnant 3 perdant 4 tour 6
+--------------------
+Tournois
+Roland Garros  2016
+Vainqueur 1 Finaliste 4
+Match_Important
+gagnant 70 perdant 5 tour 2
+gagnant 77 perdant 6 tour 2
+gagnant 4 perdant 2 tour 5
+gagnant 1 perdant 3 tour 5
+gagnant 1 perdant 4 tour 6
+--------------------
+Tournois
+Wimbledon  2016
+Vainqueur 3 Finaliste 1
+Match_Important
+gagnant 4 perdant 5 tour 4
+gagnant 1 perdant 6 tour 4
+gagnant 3 perdant 4 tour 5
+gagnant 1 perdant 2 tour 5
+gagnant 3 perdant 1 tour 6
+--------------------
+Tournois
+US OPEN  2016
+Vainqueur 4 Finaliste 102
+Match_Important
+gagnant 78 perdant 1 tour 0
+gagnant 76 perdant 3 tour 1
+gagnant 47 perdant 2 tour 1
+gagnant 99 perdant 6 tour 2
+gagnant 4 perdant 5 tour 4
+gagnant 4 perdant 102 tour 6
+--------------------
+Tournois
+Open D'Australie  2017
+Vainqueur 5 Finaliste 1
+Match_Important
+gagnant 49 perdant 4 tour 0
+gagnant 62 perdant 2 tour 0
+gagnant 114 perdant 3 tour 0
+gagnant 1 perdant 6 tour 5
+gagnant 5 perdant 1 tour 6
+--------------------
+Tournois
+Roland Garros  2017
+Vainqueur 1 Finaliste 104
+Match_Important
+gagnant 14 perdant 2 tour 0
+gagnant 59 perdant 3 tour 0
+gagnant 26 perdant 5 tour 2
+gagnant 126 perdant 4 tour 2
+gagnant 34 perdant 6 tour 3
+gagnant 1 perdant 104 tour 6
+--------------------
+Tournois
+Wimbledon  2017
+Vainqueur 3 Finaliste 4
+Match_Important
+gagnant 1 perdant 5 tour 4
+gagnant 2 perdant 6 tour 4
+gagnant 4 perdant 1 tour 5
+gagnant 3 perdant 2 tour 5
+gagnant 3 perdant 4 tour 6
+--------------------
+Tournois
+US OPEN  2017
+Vainqueur 5 Finaliste 4
+Match_Important
+gagnant 62 perdant 3 tour 1
+gagnant 116 perdant 2 tour 3
+gagnant 5 perdant 1 tour 4
+gagnant 4 perdant 6 tour 4
+gagnant 5 perdant 4 tour 6
+--------------------
+Tournois
+Open D'Australie  2018
+Vainqueur 3 Finaliste 5
+Match_Important
+gagnant 45 perdant 4 tour 2
+gagnant 2 perdant 1 tour 4
+gagnant 5 perdant 6 tour 4
+gagnant 3 perdant 2 tour 5
+gagnant 3 perdant 5 tour 6
+--------------------
+Tournois
+Roland Garros  2018
+Vainqueur 4 Finaliste 6
+Match_Important
+gagnant 106 perdant 5 tour 3
+gagnant 3 perdant 2 tour 4
+gagnant 6 perdant 1 tour 4
+gagnant 4 perdant 3 tour 5
+gagnant 4 perdant 6 tour 6
+--------------------
+Tournois
+Wimbledon  2018
+Vainqueur 2 Finaliste 1
+Match_Important
+gagnant 1 perdant 3 tour 4
+gagnant 4 perdant 6 tour 4
+gagnant 1 perdant 5 tour 5
+gagnant 2 perdant 4 tour 5
+gagnant 2 perdant 1 tour 6
+--------------------
+Tournois
+US OPEN  2018
+Vainqueur 1 Finaliste 5
+Match_Important
+gagnant 12 perdant 6 tour 3
+gagnant 1 perdant 3 tour 4
+gagnant 38 perdant 4 tour 4
+gagnant 12 perdant 2 tour 4
+gagnant 1 perdant 5 tour 6
+--------------------
+Tournois
+Open D'Australie  2019
+Vainqueur 1 Finaliste 6
+Match_Important
+gagnant 10 perdant 2 tour 0
+gagnant 82 perdant 5 tour 0
+gagnant 121 perdant 4 tour 1
+gagnant 1 perdant 3 tour 4
+gagnant 1 perdant 6 tour 6
+--------------------
+Tournois
+Roland Garros  2019
+Vainqueur 2 Finaliste 1
+Match_Important
+gagnant 1 perdant 6 tour 4
+gagnant 2 perdant 5 tour 4
+gagnant 1 perdant 3 tour 5
+gagnant 2 perdant 4 tour 5
+gagnant 2 perdant 1 tour 6
+--------------------
+Tournois
+Wimbledon  2019
+Vainqueur 1 Finaliste 4
+Match_Important
+gagnant 1 perdant 5 tour 4
+gagnant 6 perdant 2 tour 4
+gagnant 1 perdant 3 tour 5
+gagnant 4 perdant 6 tour 5
+gagnant 1 perdant 4 tour 6
+--------------------
+Tournois
+US OPEN  2019
+Vainqueur 4 Finaliste 6
+Match_Important
+gagnant 11 perdant 1 tour 0
+gagnant 93 perdant 2 tour 2
+gagnant 4 perdant 5 tour 4
+gagnant 120 perdant 3 tour 4
+gagnant 4 perdant 6 tour 6
+--------------------

@@ -1,0 +1,47 @@
+32
+250 4 Doha 3
+250 8 Brisbane 3
+2000 16 Open D'Australie 3
+500 9 Rotterdam 3
+500 5 Dubai 3
+1000 12 Indian Wells 3
+1000 5 Miami 3
+250 9 Marrakesh 2
+1000 11 Monte Carlo 2
+500 9 Barcelone 2
+250 7 Estoril 2
+1000 6 Madrid 2
+2000 13 Roland Garros 2
+500 4 Rome 2
+500 5 Halle 1
+250 9 Stuttgart 1
+500 7 Queen's 1
+2000 9 Wimbledon 1
+1000 8 Hambourg 1
+250 11 AiransGrass 1
+1000 16 NotherdamEngland 1
+500 11 Canada Open 4
+1000 9 Cincinati 4
+2000 7 US OPEN 4
+250 5 Pekin 4
+500 5 Tokyo 4
+1000 7 Shangai 4
+250 4 Bale 4
+500 8 AiranDur 1
+500 13 Saleil Series 2
+500 13 Open de Groix 3
+500 5 Paris 4
+-1
+FIN (signifier par le -1)
+
+nombre-de-tournois
+type nb-lettre-nom nom terrain
+...
+
+type = 2000 1000 500 250
+terrain = 1 2 3 4 (herbe, terre battue ...)
+
+HERBE 1
+TERRE_BATTUE 2
+DUR 3
+MOQUETTE 4
